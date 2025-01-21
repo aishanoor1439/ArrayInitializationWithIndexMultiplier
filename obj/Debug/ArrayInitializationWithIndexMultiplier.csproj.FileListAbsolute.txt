@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\bin\Debug\ArrayInitializationWithIndexMultiplier.exe.config
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\bin\Debug\ArrayInitializationWithIndexMultiplier.exe
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\bin\Debug\ArrayInitializationWithIndexMultiplier.pdb
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\obj\Debug\ArrayInitializationWithIndexMultiplier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\obj\Debug\ArrayInitializationWithIndexMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\obj\Debug\ArrayInitializationWithIndexMultiplier.exe
+C:\Users\DELL\source\repos\ArrayInitializationWithIndexMultiplier\obj\Debug\ArrayInitializationWithIndexMultiplier.pdb
